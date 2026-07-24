@@ -64,3 +64,9 @@ Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istila
 - `RPM_Bhs_Indonesia_1---803f4927-dd03-4926-96d6-c70a6dd0a78e.docx`
 - File ini harus jadi acuan layout tetap untuk semua RPM produktif di project ini.
 - Bagian identitas umum, identifikasi, dan asesmen pembelajaran harus mengikuti struktur contoh.
+
+## File contoh RPM di Google Drive
+
+- `https://docs.google.com/document/d/1Goh-vNOhuSoodlWiXp3-O7jMHZTS4iQr/edit`
+- File ini sudah disimpan di folder `01 SUMBER` pada Google Drive root project.
+- Layout file ini menjadi acuan wajib untuk semua RPM berikutnya.

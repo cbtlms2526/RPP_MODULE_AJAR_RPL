@@ -129,6 +129,18 @@ RPM harus disusun rapi sebagai dokumen siap baca. Urutan layout yang direkomenda
 - Folder sumber harus menjadi tempat referensi utama sebelum menulis konten final.
 - Jangan melompat ke isi CP/ATP sebelum blueprint dan layout dasar selesai.
 
+
+## Catatan khusus DDPK (Dasar-Dasar Pengembangan Perangkat Lunak dan Gim)
+
+- Bro Cahyo menambahkan file ATP DDPK jurusan RPL sebagai sumber utama analisis.
+- File referensi ada di folder `01 SUMBER` dan juga harus di-drive-kan ke Google Drive.
+- Mata pelajaran DDPK dilakukan selama **2 semester**.
+- Beban belajar: **12 JP per minggu**.
+- Satu tahun ajaran: **36 minggu**.
+- Harus dibuat hasil analisis untuk perencanaan RPM/RPP per tatap muka.
+- Dokumen input menampilkan tahapan materi 1 s.d. 4 serta tabel Elemen, CP, TP, dan ATP.
+- Untuk RPP/RPM berikutnya, struktur analisis per pertemuan harus mengikuti ATP ini.
+
 ## Output berikutnya yang harus dibuat
 
 1. Dokumen layout RPM yang lebih spesifik untuk mapel produktif.

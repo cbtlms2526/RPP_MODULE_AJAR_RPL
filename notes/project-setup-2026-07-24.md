@@ -76,3 +76,13 @@ Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istila
 - `41_QC1_FINAL_ATP_Yekti_Utari_SMKN_2_Magelang---1f5bb201-9184-4991-8a5a-27601e80d92d.pdf`
 - File ini sudah disimpan ke folder `01 SUMBER` lokal.
 - Selanjutnya file ini harus ikut di-upload ke Google Drive folder `01 SUMBER` dan menjadi referensi analisis ATP DDPK jurusan RPL.
+
+## File analisis DDPK dalam format xls
+
+- `ANALISIS_ELEMEN_CP_TP_ATP_DDPK.xls`
+- Disimpan di folder `02 DASAR-DASAR PROGRAM KEAHLIAN RPL`.
+- Di-upload ke Google Drive folder yang sama.
+- Formatnya HTML spreadsheet agar tetap bisa dibuka oleh Excel/Drive di environment ini.
+
+Link Drive:
+- `https://docs.google.com/spreadsheets/d/1xfekESquHgmPFGb1ZTnIZlBwnXyXs2Cm/edit`

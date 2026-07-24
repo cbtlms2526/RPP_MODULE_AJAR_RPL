@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Analisis Elemen CP TP ATP DDPK</title>
+<style>
+body { font-family: Arial, sans-serif; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #000; padding: 6px; vertical-align: top; font-size: 12px; }
+th { background: #d9ead3; }
+small { color: #444; }
+</style>
+</head>
+<body>
+<h2>Analisis Elemen, CP, TP, dan ATP - DDPK Jurusan RPL</h2>
+<p><strong>Mapel:</strong> Dasar-Dasar Pengembangan Perangkat Lunak dan Gim (DDPK)<br>
+<strong>Fase:</strong> E<br>
+<strong>Beban belajar:</strong> 12 JP/minggu<br>
+<strong>Lama pembelajaran:</strong> 2 semester / 36 minggu / tahun ajaran</p>
+
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th>Elemen</th>
+<th>Capaian Pembelajaran (CP)</th>
+<th>Tujuan Pembelajaran (TP)</th>
+<th>Alur Tujuan Pembelajaran (ATP)</th>
+<th>Catatan Analisis RPM per Tatap Muka</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Proses bisnis menyeluruh bidang pengembangan perangkat lunak dan gim</td>
+<td>Pada akhir fase E peserta didik mampu mendeskripsikan proses perencanaan, analisis, desain, implementasi, integrasi, pemeliharaan, pemasaran, dan distribusi perangkat lunak dan gim termasuk budaya mutu, K3LH, manajemen proyek, kebutuhan pelanggan, keinginan pelanggan, dan validasi UX.</td>
+<td>Memahami proses bisnis perangkat lunak dan gim, budaya mutu, manajemen proyek, kebutuhan pelanggan, dan validasi UX.</td>
+<td>1.1 Memahami proses bisnis perangkat lunak dan gim serta budaya mutu. 1.2 Memahami konsep manajemen proyek. 1.3 Memahami kebutuhan dan keinginan pelanggan. 1.4 Memahami proses validasi UX.</td>
+<td>Prioritas semester 1. Dapat dipecah menjadi beberapa tatap muka: proses bisnis, budaya mutu, manajemen proyek, kebutuhan pelanggan, UX.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Perkembangan dunia kerja bidang perangkat lunak dan gim</td>
+<td>Pada akhir fase E peserta didik mampu menjelaskan perkembangan teknologi pada pengembangan perangkat lunak dan gim, termasuk penerapan industri 4.0 pada manajemen pengembangan perangkat lunak dan gim, serta menganalisis isu-isu penting bidang perangkat lunak dan gim.</td>
+<td>Memahami perkembangan teknologi, penerapan Industri 4.0, dampak positif dan negatif teknologi, serta HAKI.</td>
+<td>2.1 Memahami perkembangan teknologi. 2.2 Memahami penerapan Industri 4.0. 2.3 Memahami dampak positif dan negatif perkembangan teknologi. 2.4 Memahami permasalahan terkait HAKI.</td>
+<td>Masuk semester 1. Cocok untuk penguatan wawasan dunia kerja dan etika digital sebelum praktik teknis.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>K3LH, profesi, dan kewirausahaan</td>
+<td>Mencakup K3LH, keadaan darurat, bahaya di tempat kerja, budaya kerja industri, profesi, kewirausahaan, peluang usaha, dan proyek nyata simulatif.</td>
+<td>Menerapkan keselamatan kerja, memahami prosedur darurat, menerapkan budaya kerja industri, memahami profesi dan kewirausahaan, serta peluang usaha.</td>
+<td>3.1 Memahami profesi dan kewirausahaan. 3.2 Memahami peluang usaha di bidang perangkat lunak dan gim. 3.3 Menerapkan pembelajaran berbasis proyek nyata sebagai simulasi kewirausahaan. 4.1 Menerapkan K3LH. 4.2 Memahami prosedur keadaan darurat. 4.3 Menerapkan budaya kerja industri.</td>
+<td>Diposisikan setelah fondasi proses bisnis. Bisa dibuat beberapa pertemuan praktik dan simulasi.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Pemrograman terstruktur</td>
+<td>Mencakup alat/teknologi pengembangan, basis data, sistem operasi, UI, algoritma, flowchart, data statis/dinamis, kontrol perulangan dan percabangan.</td>
+<td>Memahami tools pengembangan, menerapkan pemrograman terstruktur, algoritma, flowchart, kontrol program dasar.</td>
+<td>5.1 Menerapkan peralatan/teknologi di bidang pengembangan perangkat lunak dan gim. 5.2 Menerapkan pengelolaan aset dan UI. 5.3 Menerapkan prinsip dasar algoritma. 6.1 Menerapkan pemrograman terstruktur menggunakan data statis dan data dinamis. 6.2 Menerapkan tipe data, struktur kontrol perulangan dan percabangan.</td>
+<td>Masuk semester 2. Bisa dipecah menjadi rangkaian tatap muka praktik kode dan logika dasar.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Pemrograman berorientasi objek</td>
+<td>Mencakup class, object, method, package, access modifier, enkapsulasi, interface, pewarisan, dan polymorphism.</td>
+<td>Memahami dan menerapkan OOP pada pengembangan perangkat lunak sederhana.</td>
+<td>7.1 Menerapkan OOP menggunakan class, object, method, package. 7.2 Memahami access modifier. 7.3 Memahami enkapsulasi, interface, pewarisan, dan polymorphism.</td>
+<td>Materi puncak semester 2 dan cocok untuk mini project final.</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Kesimpulan analisis:</strong> Karena mapel DDPK berlangsung 2 semester dengan 12 JP/minggu, maka pembelajaran paling aman dibagi menjadi 2 tatap muka per minggu (sekitar 6 JP per pertemuan). Semester 1 fokus fondasi, semester 2 fokus praktik dan OOP. Setiap tatap muka harus tetap mengandung 3M: memahami, mengaplikasi, merefleksi.</p>
+</body>
+</html>

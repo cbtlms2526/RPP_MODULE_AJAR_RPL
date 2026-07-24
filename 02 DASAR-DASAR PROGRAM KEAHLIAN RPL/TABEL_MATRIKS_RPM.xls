@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Matriks Semua Komponen RPM</title>
+<style>
+body{font-family:Arial,sans-serif;font-size:11px;margin:10px}
+h1,h2,h3{margin:4px 0}
+table{border-collapse:collapse;width:100%;margin:6px 0;table-layout:auto}
+th,td{border:1px solid #000;padding:5px;vertical-align:top;word-wrap:break-word}
+th{background:#d9ead3;font-weight:bold;position:sticky;top:0;z-index:1}
+.section-header{background:#f4c27f;font-weight:bold;font-size:13px;text-align:left}
+.subsection-header{background:#fce5cd;font-weight:bold;font-size:12px}
+small{font-size:10px;color:#444}
+.col-rpm{background:#e8f5e9;font-weight:bold;text-align:center;width:60px}
+.col-jp{background:#fff8e1;text-align:center;width:60px}
+</style>
+</head>
+<body>
+<h1>Matriks Semua Komponen RPM - DDPK Jurusan RPL</h1>
+<p><strong>Mapel:</strong> Dasar-Dasar Pengembangan Perangkat Lunak dan Gim (DDPK) | <strong>Fase:</strong> E | <strong>Beban:</strong> 12 JP/minggu (2x pertemuan, ~6 JP/pertemuan) | <strong>Durasi:</strong> 2 semester / 36 minggu</p>
+
+<h2>Panduan Pengisian</h2>
+<ul>
+<li>Baris = 1 RPM (RPM1, RPM2, dst.)</li>
+<li>Kolom = 1 field data sesuai komponen RPM</li>
+<li>Isi setiap sel sesuai data untuk RPM tersebut</li>
+<li>Kolom bertanda <strong>*</strong> = wajib diisi</li>
+<li>DPL dipilih dari 8 poin yang tersedia; tulis nomor dan nama DPL</li>
+<li>Isi sel dengan tanda <strong>-</strong> jika tidak applicable</li>
+</ul>
+
+<h2>Matriks Data RPM</h2>
+<table>
+<thead>
+<tr>
+<th class="col-rpm">RPM</th>
+<th class="col-jp">JP per Tatap Muka</th>
+<th class="section-header" colspan="7">A. IDENTITAS *</th>
+<th class="section-header" colspan="8">B. DPL *</th>
+<th class="section-header" colspan="4">C. MAPEL LINTAS</th>
+<th class="section-header" colspan="4">D. ELEMEN / CP / TP / ATP *</th>
+<th class="section-header" colspan="3">E. PEMAHAMAN BERMAKNA *</th>
+<th class="section-header" colspan="2">F. PERTANYAAN PEMANTIK *</th>
+<th class="section-header" colspan="4">G. ALUR 3M *</th>
+<th class="section-header" colspan="5">H. ASESMEN *</th>
+<th class="section-header" colspan="3">I. SUMBER BELAJAR</th>
+<th class="section-header" colspan="2">J. PENGAYAAN / REMEDIAL</th>
+<th class="section-header" colspan="3">K. REFLEKSI GURU</th>
+<th class="section-header" colspan="2">L. K3LH & 5R</th>
+<th class="section-header" colspan="2">M. LAIN-LAIN</th>
+</tr>
+<tr>
+<th></th><th></th>
+<!-- A. Identitas -->
+<th class="subsection-header">Sekolah</th>
+<th class="subsection-header">Program Keahlian</th>
+<th class="subsection-header">Konsentrasi</th>
+<th class="subsection-header">Mapel</th>
+<th class="subsection-header">Fase</th>
+<th class="subsection-header">Kelas/Sem</th>
+<th class="subsection-header">Tahun Ajaran</th>
+<!-- B. DPL -->
+<th class="subsection-header">DPL 1</th>
+<th class="subsection-header">DPL 2</th>
+<th class="subsection-header">DPL 3</th>
+<th class="subsection-header">DPL 4</th>
+<th class="subsection-header">DPL 5</th>
+<th class="subsection-header">DPL 6</th>
+<th class="subsection-header">DPL 7</th>
+<th class="subsection-header">DPL 8</th>
+<!-- C. Mapel Lintas -->
+<th class="subsection-header">Nama Mapel Lintas</th>
+<th class="subsection-header">Hubungan</th>
+<th class="subsection-header">Aktivitas</th>
+<th class="subsection-header">Hasil</th>
+<!-- D. Elemen/CP/TP/ATP -->
+<th class="subsection-header">Elemen</th>
+<th class="subsection-header">CP</th>
+<th class="subsection-header">TP</th>
+<th class="subsection-header">ATP</th>
+<!-- E. Pemahaman Bermakna -->
+<th class="subsection-header">Makna Inti</th>
+<th class="subsection-header">Hubungan Dunia Kerja</th>
+<th class="subsection-header">Alasan Penting</th>
+<!-- F. Pertanyaan Pemantik -->
+<th class="subsection-header">Pertanyaan 1-3</th>
+<th class="subsection-header">Catatan</th>
+<!-- G. Alur 3M -->
+<th class="subsection-header">Memahami</th>
+<th class="subsection-header">Mengaplikasi</th>
+<th class="subsection-header">Merefleksi</th>
+<th class="subsection-header">Durasi 3M</th>
+<!-- H. Asesmen -->
+<th class="subsection-header">Awal</th>
+<th class="subsection-header">Proses</th>
+<th class="subsection-header">Hasil</th>
+<th class="subsection-header">Rubrik</th>
+<th class="subsection-header">Tindak Lanjut</th>
+<!-- I. Sumber -->
+<th class="subsection-header">File RPM</th>
+<th class="subsection-header">File ATP</th>
+<th class="subsection-header">Lainnya</th>
+<!-- J. Pengayaan -->
+<th class="subsection-header">Pengayaan</th>
+<th class="subsection-header">Remedial</th>
+<!-- K. Refleksi -->
+<th class="subsection-header">Keberhasilan</th>
+<th class="subsection-header">Hambatan</th>
+<th class="subsection-header">Tindak Lanjut</th>
+<!-- L. K3LH -->
+<th class="subsection-header">K3LH</th>
+<th class="subsection-header">Budaya 5R</th>
+<!-- M. Lain -->
+<th class="subsection-header">Topik</th>
+<th class="subsection-header">Catatan</th>
+</tr>
+</thead>
+<tbody>
+<!-- Template row - RPM1 -->
+<tr>
+<td class="col-rpm">RPM1</td>
+<td class="col-jp">6 JP</td>
+<!-- A. Identitas -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">Pengembangan Perangkat Lunak dan Gim</td>
+<td contenteditable="true">RPL</td>
+<td contenteditable="true">Dasar-Dasar Pengembangan Perangkat Lunak dan Gim</td>
+<td contenteditable="true">E</td>
+<td contenteditable="true">X/1</td>
+<td contenteditable="true">2025/2026</td>
+<!-- B. DPL -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- C. Mapel Lintas -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- D. Elemen/CP/TP/ATP -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- E. Pemahaman Bermakna -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- F. Pertanyaan Pemantik -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- G. Alur 3M -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- H. Asesmen -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- I. Sumber -->
+<td contenteditable="true">File RPM contoh</td>
+<td contenteditable="true">File ATP DDPK</td>
+<td contenteditable="true">-</td>
+<!-- J. Pengayaan -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- K. Refleksi -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- L. K3LH -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<!-- M. Lain -->
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+</tr>
+<!-- Template row - RPM2 -->
+<tr>
+<td class="col-rpm">RPM2</td>
+<td class="col-jp">6 JP</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">Pengembangan Perangkat Lunak dan Gim</td>
+<td contenteditable="true">RPL</td>
+<td contenteditable="true">Dasar-Dasar Pengembangan Perangkat Lunak dan Gim</td>
+<td contenteditable="true">E</td>
+<td contenteditable="true">X/1</td>
+<td contenteditable="true">2025/2026</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+<td contenteditable="true">-</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Daftar 8 Poin DPL</h2>
+<table>
+<tr><th>No</th><th>DPL</th><th>Deskripsi</th></tr>
+<tr><td>1</td><td>DPL 1</td><td>Keimanan dan ketakwaan kepada Tuhan Yang Maha Esa</td></tr>
+<tr><td>2</td><td>DPL 2</td><td>Kewargaan *(bukan Kewarganegaraan)*</td></tr>
+<tr><td>3</td><td>DPL 3</td><td>Penalaran kritis</td></tr>
+<tr><td>4</td><td>DPL 4</td><td>Kreativitas</td></tr>
+<tr><td>5</td><td>DPL 5</td><td>Kolaborasi</td></tr>
+<tr><td>6</td><td>DPL 6</td><td>Kemandirian</td></tr>
+<tr><td>7</td><td>DPL 7</td><td>Kesehatan</td></tr>
+<tr><td>8</td><td>DPL 8</td><td>Komunikasi</td></tr>
+</table>
+
+<h2>Daftar Kolom Komponen RPM</h2>
+<table>
+<tr><th>No</th><th>Kelompok</th><th>Nama Kolom</th><th>Wajib?</th><th>Deskripsi</th></tr>
+<tr><td>1</td><td>A. Identitas</td><td>RPM</td><td>Ya</td><td>Nomor urut RPM (RPM1, RPM2, dst.)</td></tr>
+<tr><td>2</td><td>A. Identitas</td><td>JP per Tatap Muka</td><td>Ya</td><td>Jumlah JP untuk pertemuan ini</td></tr>
+<tr><td>3</td><td>A. Identitas</td><td>Sekolah</td><td>Ya</td><td>Nama sekolah</td></tr>
+<tr><td>4</td><td>A. Identitas</td><td>Program Keahlian</td><td>Ya</td><td>Contoh: Pengembangan Perangkat Lunak dan Gim</td></tr>
+<tr><td>5</td><td>A. Identitas</td><td>Konsentrasi</td><td>Ya</td><td>Contoh: RPL</td></tr>
+<tr><td>6</td><td>A. Identitas</td><td>Mapel</td><td>Ya</td><td>Nama mata pelajaran</td></tr>
+<tr><td>7</td><td>A. Identitas</td><td>Fase</td><td>Ya</td><td>E atau F</td></tr>
+<tr><td>8</td><td>A. Identitas</td><td>Kelas/Semester</td><td>Ya</td><td>Contoh: X/1</td></tr>
+<tr><td>9</td><td>A. Identitas</td><td>Tahun Ajaran</td><td>Ya</td><td>Contoh: 2025/2026</td></tr>
+<tr><td>10</td><td>B. DPL</td><td>DPL 1 s.d. DPL 8</td><td>Ya</td><td>Pilih 2-4 DPL yang relevan; isi ya atau nama</td></tr>
+<tr><td>11</td><td>C. Mapel Lintas</td><td>Nama Mapel Lintas</td><td>Tidak</td><td>Nama mapel yang diintegrasikan</td></tr>
+<tr><td>12</td><td>C. Mapel Lintas</td><td>Hubungan</td><td>Tidak</td><td>Bagaimana mapel lintas terhubung</td></tr>
+<tr><td>13</td><td>C. Mapel Lintas</td><td>Aktivitas</td><td>Tidak</td><td>Bentuk aktivitas lintas mapel</td></tr>
+<tr><td>14</td><td>C. Mapel Lintas</td><td>Hasil</td><td>Tidak</td><td>Hasil yang diharapkan</td></tr>
+<tr><td>15</td><td>D. Elemen/CP/TP/ATP</td><td>Elemen</td><td>Ya</td><td>Elemen CP yang dipakai</td></tr>
+<tr><td>16</td><td>D. Elemen/CP/TP/ATP</td><td>CP</td><td>Ya</td><td>Capaian Pembelajaran</td></tr>
+<tr><td>17</td><td>D. Elemen/CP/TP/ATP</td><td>TP</td><td>Ya</td><td>Tujuan Pembelajaran</td></tr>
+<tr><td>18</td><td>D. Elemen/CP/TP/ATP</td><td>ATP</td><td>Ya</td><td>Alur Tujuan Pembelajaran</td></tr>
+<tr><td>19</td><td>E. Pemahaman Bermakna</td><td>Makna Inti</td><td>Ya</td><td>Apa makna yang harus dipahami</td></tr>
+<tr><td>20</td><td>E. Pemahaman Bermakna</td><td>Hubungan Dunia Kerja</td><td>Ya</td><td>Hubungan dengan dunia kerja</td></tr>
+<tr><td>21</td><td>E. Pemahaman Bermakna</td><td>Alasan Penting</td><td>Ya</td><td>Kenapa materi ini penting</td></tr>
+<tr><td>22</td><td>F. Pertanyaan Pemantik</td><td>Pertanyaan 1-3</td><td>Ya</td><td>3-5 pertanyaan pembuka</td></tr>
+<tr><td>23</td><td>F. Pertanyaan Pemantik</td><td>Catatan</td><td>Tidak</td><td>Catatan tambahan</td></tr>
+<tr><td>24</td><td>G. Alur 3M</td><td>Memahami</td><td>Ya</td><td>Aktivitas memahami</td></tr>
+<tr><td>25</td><td>G. Alur 3M</td><td>Mengaplikasi</td><td>Ya</td><td>Aktivitas mengaplikasi</td></tr>
+<tr><td>26</td><td>G. Alur 3M</td><td>Merefleksi</td><td>Ya</td><td>Aktivitas merefleksi</td></tr>
+<tr><td>27</td><td>G. Alur 3M</td><td>Durasi 3M</td><td>Ya</td><td>Durasi per fase 3M</td></tr>
+<tr><td>28</td><td>H. Asesmen</td><td>Awal</td><td>Ya</td><td>Bentuk asesmen awal</td></tr>
+<tr><td>29</td><td>H. Asesmen</td><td>Proses</td><td>Ya</td><td>Bentuk asesmen proses</td></tr>
+<tr><td>30</td><td>H. Asesmen</td><td>Hasil</td><td>Ya</td><td>Bentuk asesmen hasil</td></tr>
+<tr><td>31</td><td>H. Asesmen</td><td>Rubrik</td><td>Ya</td><td>Rubrik atau indikator</td></tr>
+<tr><td>32</td><td>H. Asesmen</td><td>Tindak Lanjut</td><td>Ya</td><td>Pengayaan / remedial</td></tr>
+<tr><td>33</td><td>I. Sumber</td><td>File RPM</td><td>Ya</td><td>Referensi file RPM contoh</td></tr>
+<tr><td>34</td><td>I. Sumber</td><td>File ATP</td><td>Ya</td><td>Referensi file ATP</td></tr>
+<tr><td>35</td><td>I. Sumber</td><td>Lainnya</td><td>Tidak</td><td>Sumber tambahan</td></tr>
+<tr><td>36</td><td>J. Pengayaan</td><td>Pengayaan</td><td>Tidak</td><td>Kegiatan pengayaan</td></tr>
+<tr><td>37</td><td>J. Pengayaan</td><td>Remedial</td><td>Tidak</td><td>Kegiatan remedial</td></tr>
+<tr><td>38</td><td>K. Refleksi</td><td>Keberhasilan</td><td>Ya</td><td>Dokumentasi keberhasilan</td></tr>
+<tr><td>39</td><td>K. Refleksi</td><td>Hambatan</td><td>Ya</td><td>Dokumentasi hambatan</td></tr>
+<tr><td>40</td><td>K. Refleksi</td><td>Tindak Lanjut</td><td>Ya</td><td>Tindak lanjut untuk pertemuan berikutnya</td></tr>
+<tr><td>41</td><td>L. K3LH</td><td>K3LH</td><td>Ya</td><td>Integrasi K3LH</td></tr>
+<tr><td>42</td><td>L. K3LH</td><td>Budaya 5R</td><td>Ya</td><td>Integrasi budaya 5R</td></tr>
+<tr><td>43</td><td>M. Lain</td><td>Topik</td><td>Tidak</td><td>Topik spesifik pertemuan</td></tr>
+<tr><td>44</td><td>M. Lain</td><td>Catatan</td><td>Tidak</td><td>Catatan tambahan</td></tr>
+</table>
+
+<p class="small"><strong>Catatan:</strong> Kolom bertanda <strong>*</strong> wajib diisi untuk setiap RPM. Kolom tanpa tanda wajib dapat dikosongkan atau diisi tanda <strong>-</strong> jika tidak applicable. File ini bisa diedit langsung di Excel atau Google Sheets.</p>
+</body>
+</html>

@@ -70,3 +70,9 @@ Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istila
 - `https://docs.google.com/document/d/1Goh-vNOhuSoodlWiXp3-O7jMHZTS4iQr/edit`
 - File ini sudah disimpan di folder `01 SUMBER` pada Google Drive root project.
 - Layout file ini menjadi acuan wajib untuk semua RPM berikutnya.
+
+## File ATP DDPK masuk sumber
+
+- `41_QC1_FINAL_ATP_Yekti_Utari_SMKN_2_Magelang---1f5bb201-9184-4991-8a5a-27601e80d92d.pdf`
+- File ini sudah disimpan ke folder `01 SUMBER` lokal.
+- Selanjutnya file ini harus ikut di-upload ke Google Drive folder `01 SUMBER` dan menjadi referensi analisis ATP DDPK jurusan RPL.

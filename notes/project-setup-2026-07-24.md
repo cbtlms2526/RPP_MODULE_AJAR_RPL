@@ -39,7 +39,15 @@ Tanggal: 2026-07-24
 
 - Setup Drive akan memakai OAuth client/token yang sama pola-nya dengan project lama.
 - Root folder dan subfolder target sudah disiapkan untuk dibuat/ditautkan.
+- Percobaan langsung ke Drive target masih gagal dengan error `invalid_client`, jadi perlu verifikasi ulang OAuth client yang dipakai sebelum folder Drive bisa dibuat.
+
+## Status terbaru GitHub
+
+- Repo `RPP_MODULE_AJAR_RPL` sudah berhasil dipush ke GitHub.
+- Branch `main` sudah tracking `origin/main`.
+- Remote repo aktif dan perubahan lokal berhasil tersinkron.
 
 ## Catatan penting
 
-Kalau credential GitHub sudah diberi akses yang benar untuk repo `RPP_MODULE_AJAR_RPL`, maka project ini harus selalu disinkronkan segera setelah ada perubahan lokal.
+Kalau ada perubahan lokal berikutnya, project ini harus langsung disinkronkan ke GitHub.
+Untuk Drive, perlu credential OAuth yang valid agar proses folder sync bisa dijalankan.

@@ -204,3 +204,10 @@ Seluruh RPP dan modul ajar berikutnya harus mengikuti alur itu, dengan penyesuai
 - Kelas XI dan XII = Fase F.
 
 Dokumen ini menjadi dasar pengembangan konten berikutnya di folder project ini.
+
+## Koreksi istilah dari contoh RPM
+
+Pada contoh layout RPM yang Bro Cahyo kirim, ada koreksi penting pada bagian Dimensi Profil Lulusan (DPL):
+- **DPL 2 Kewarganegaraan** harus ditulis menjadi **DPL 2 Kewargaan**
+
+Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istilah.

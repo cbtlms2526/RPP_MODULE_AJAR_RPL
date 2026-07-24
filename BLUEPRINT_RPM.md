@@ -119,6 +119,8 @@ RPM harus disusun rapi sebagai dokumen siap baca. Urutan layout yang direkomenda
 - Yang kita buat adalah untuk **mata pelajaran produktif**.
 - File contoh harus ditempatkan di folder `01 SUMBER`.
 - Analisis pembelajaran mendalam ini menjadi DNA pembuatan RPM dan modul ajar.
+- Pada bagian **Dimensi Profil Lulusan (DPL)** di contoh RPM, koreksi istilah berikut harus diingat:
+  - **DPL 2 Kewarganegaraan → DPL 2 Kewargaan**
 
 ## Aturan kerja
 

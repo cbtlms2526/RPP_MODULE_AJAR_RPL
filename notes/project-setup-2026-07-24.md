@@ -51,3 +51,10 @@ Tanggal: 2026-07-24
 
 Kalau ada perubahan lokal berikutnya, project ini harus langsung disinkronkan ke GitHub.
 Untuk Drive, perlu credential OAuth yang valid agar proses folder sync bisa dijalankan.
+
+## Koreksi istilah dari contoh RPM
+
+Pada contoh layout RPM yang Bro Cahyo kirim, ada koreksi penting pada bagian Dimensi Profil Lulusan (DPL):
+- **DPL 2 Kewarganegaraan** harus ditulis menjadi **DPL 2 Kewargaan**
+
+Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istilah.

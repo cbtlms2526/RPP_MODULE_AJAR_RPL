@@ -1,21 +1,26 @@
 
-## File master komponen RPM
+## File matriks RPM dalam format Excel
 
-Bro Cahyo meminta file kesusu/master komponen RPM supaya semua unsur konsisten dan bisa direview manual sedikit demi sedikit.
+Bro Cahyo meminta satu file Excel yang berisi semua komponen RPM dalam bentuk matriks kolom-per-kolom, agar bisa dicek dan diedit manual.
 
 File yang sudah dibuat:
-- `01 SUMBER/KOMPONEN_MASTER_RPM.md`
+- `02 DASAR-DASAR PROGRAM KEAHLIAN RPL/TABEL_MATRIKS_RPM.xls`
 
-Isi utama file master:
-- 8 poin DPL
-- catatan penggunaan DPL yang relevan untuk setiap RPM
-- koreksi istilah DPL 2 Kewargaan
-- mapel lintas jurusan
-- elemen / CP / TP / ATP
-- alur 3M
-- asesmen
-- sumber belajar
-- pengayaan / remedial
-- catatan refleksi guru
+Isi file:
+- kolom RPM (RPM1, RPM2, dst.)
+- kolom JP per tatap muka
+- kolom identitas per field
+- kolom DPL 1 sampai DPL 8
+- kolom mapel lintas jurusan
+- kolom elemen / CP / TP / ATP
+- kolom pemahaman bermakna
+- kolom pertanyaan pemantik
+- kolom alur 3M
+- kolom asesmen
+- kolom sumber belajar
+- kolom pengayaan / remedial
+- kolom refleksi guru
+- kolom K3LH & 5R
+- kolom lain-lain
 
-File ini diposisikan sebagai file kesusu agar Bro Cahyo bisa cek dan edit manual dengan mudah.
+File ini diposisikan sebagai matriks utama RPM supaya Bro Cahyo bisa melihat komponen apa saja yang tampil di setiap RPM.

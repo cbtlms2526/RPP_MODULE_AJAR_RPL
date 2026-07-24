@@ -58,3 +58,9 @@ Pada contoh layout RPM yang Bro Cahyo kirim, ada koreksi penting pada bagian Dim
 - **DPL 2 Kewarganegaraan** harus ditulis menjadi **DPL 2 Kewargaan**
 
 Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istilah.
+
+## File contoh RPM yang menjadi referensi layout
+
+- `RPM_Bhs_Indonesia_1---803f4927-dd03-4926-96d6-c70a6dd0a78e.docx`
+- File ini harus jadi acuan layout tetap untuk semua RPM produktif di project ini.
+- Bagian identitas umum, identifikasi, dan asesmen pembelajaran harus mengikuti struktur contoh.

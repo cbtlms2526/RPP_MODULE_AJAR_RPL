@@ -211,3 +211,18 @@ Pada contoh layout RPM yang Bro Cahyo kirim, ada koreksi penting pada bagian Dim
 - **DPL 2 Kewarganegaraan** harus ditulis menjadi **DPL 2 Kewargaan**
 
 Koreksi ini wajib dipakai agar nanti penyusunan RPM produktif tidak salah istilah.
+
+## File contoh RPM wajib dipakai
+
+File contoh RPM dari Bro Cahyo sudah disimpan di folder `01 SUMBER` dengan nama:
+- `RPM_Bhs_Indonesia_1---803f4927-dd03-4926-96d6-c70a6dd0a78e.docx`
+
+Aturan layout yang harus diikuti untuk semua RPM berikutnya:
+- logo harus mengikuti contoh
+- tata letak harus mengikuti contoh
+- bagian-bagian harus sama
+- dari Identitas Umum / Identifikasi sampai Asesmen Pembelajaran harus dipertahankan strukturnya
+- isi nanti akan diisi mengikuti CP dan ATP yang diberikan kemudian
+
+### Koreksi istilah yang sudah dicatat
+- DPL 2 Kewarganegaraan → DPL 2 Kewargaan

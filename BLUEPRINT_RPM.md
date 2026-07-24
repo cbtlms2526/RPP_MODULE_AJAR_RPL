@@ -141,6 +141,14 @@ RPM harus disusun rapi sebagai dokumen siap baca. Urutan layout yang direkomenda
 - Dokumen input menampilkan tahapan materi 1 s.d. 4 serta tabel Elemen, CP, TP, dan ATP.
 - Untuk RPP/RPM berikutnya, struktur analisis per pertemuan harus mengikuti ATP ini.
 
+
+## Koreksi serius untuk analisis ATP DDPK
+
+- File analisis DDPK sebelumnya harus berisi seluruh TP/ATP dari dokumen acuan, yaitu 1.1 sampai 7.3, tanpa ada yang terlewat.
+- Analisis harus disusun sebagai **resume analisis** yang siap dipakai menyusun RPM per tatap muka.
+- Dengan 12 JP/minggu dan 2 pertemuan per minggu, analisis per tatap muka harus dianggap sekitar 6 JP.
+- Semester 1 difokuskan pada fondasi DDPK; semester 2 difokuskan pada praktik terstruktur dan OOP.
+
 ## Output berikutnya yang harus dibuat
 
 1. Dokumen layout RPM yang lebih spesifik untuk mapel produktif.
